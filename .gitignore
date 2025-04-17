@@ -1,0 +1,5 @@
+data/
+results/
+results_dag/
+
+.venv/
